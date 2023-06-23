@@ -1,4 +1,4 @@
-# -Hotel-Reservation-React-Projects
+# Hotel-Reservation-React-Projects
 
 # Beach Hotel
 
